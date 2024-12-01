@@ -8,7 +8,10 @@ async function main() {
     const distanceCalculator: DistanceCalculator = new DistanceCalculator();
     const totalDistance: number = distanceCalculator.calculateTotalDistance(firstColumn, secondColumn);
 
+    const similarityScore: number = distanceCalculator.computeSimilarityScore(firstColumn, secondColumn);
+
     console.log("Total distance: ", totalDistance);
+    console.log("Similarity score: ", similarityScore);
 }
 
 main();
