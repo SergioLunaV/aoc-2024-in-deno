@@ -4,9 +4,9 @@ This project collects the Advent Of Code of 2024, day by day. The language used 
 ## Execution
 Program execution for each day.
 ```console
-	deno run main.ts
+deno run main.ts
 ```
 Test execution for each day.
 ```console
-	deno test test_name.ts
+deno test test_name.ts
 ```
