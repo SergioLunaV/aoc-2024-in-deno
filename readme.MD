@@ -2,7 +2,7 @@
 This project collects the Advent Of Code of 2024, day by day. The language used is TypeScript with Deno runtime, following TDD.
 
 ## Installation
-Install deno guide [here]{https://docs.deno.com/runtime/}.
+Install deno guide [here](https://docs.deno.com/runtime/).
 
 
 ## Execution
